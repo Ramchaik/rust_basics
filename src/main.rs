@@ -1,6 +1,8 @@
-mod print;
+// mod print;
+mod vars;
 
 fn main() {
-    println!("Hello, world!");
-    print::run();
+    // println!("Hello, world!");
+    // print::run();
+    vars::run();
 }
